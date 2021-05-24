@@ -2,6 +2,7 @@
   "name": "pbmailer",
   "version": "1.0.0",
   "description": "node backend mailer",
+  "start": "node index.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
