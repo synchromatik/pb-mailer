@@ -1,0 +1,11 @@
+---
+application:
+  name: "pb-mailer"
+  project: "nodepbmailer"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-pb-mailer"
+  routes:
+  - application_name: "pb-mailer"
+    paths:
+    - "/*"
